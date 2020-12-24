@@ -1079,7 +1079,7 @@ img {
     &:hover,
     &:focus {
         .painting-info {
-            background-color: $hover-color;
+            background-color: #ca9801;
         }
         img {
             @include transform(scale(1.2));

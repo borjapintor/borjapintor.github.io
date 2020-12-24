@@ -1066,7 +1066,7 @@ margin-left: 70px;
 }
 .single-painting .painting-icon .audioplayer .audioplayer-playing .audioplayer-playpause a::before,
 .single-painting .painting-icon .audioplayer .audioplayer-playing .audioplayer-playpause a::after {
-  background-color: #bd177a;
+  background-color: #ca9801;
 }
 .single-painting .painting-icon .audioplayer .audioplayer-bar,
 .single-painting .painting-icon .audioplayer .audioplayer-time,
@@ -1074,7 +1074,7 @@ margin-left: 70px;
   display: none !important;
 }
 .single-painting:hover .painting-info, .single-painting:focus .painting-info {
-  background-color: #bd177a;
+  background-color: #ca9801;
 }
 .single-painting:hover img, .single-painting:focus img {
   -webkit-transform: scale(1.2);
